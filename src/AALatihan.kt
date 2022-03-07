@@ -10,5 +10,4 @@ fun testsatu(){
     var pj = status.size
 
     println(pj)
-    //
 }
